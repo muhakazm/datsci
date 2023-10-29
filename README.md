@@ -1,6 +1,7 @@
 # datsci
 Data Science Purpose
-Content:
+
+Class of Contents:
 - learnings
 - topics
 - projects
