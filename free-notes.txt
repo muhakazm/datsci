@@ -1,2 +1,2 @@
-python libs
-applications
+python libs - general introductions
+applications - specific libs usages
