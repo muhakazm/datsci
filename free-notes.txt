@@ -1,2 +1,4 @@
 python libs - general introductions
 applications - specific libs usages
+
+each script file in the `codes` folder may requieres libraries to run properly
